@@ -1,0 +1,14 @@
+*.log.*
+*.log
+*.db*
+
+secrets.yaml
+
+.storage
+.cloud
+.google.token
+
+ip_bans.yaml
+.cloud
+known_devices.yaml
+
